@@ -7,4 +7,8 @@ This repository is built step by step in the tutorial.
 
 Test restore
 
+<<<<<<< HEAD
 Test readme from master
+=======
+
+> > > > > > > test-conflict
